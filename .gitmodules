@@ -1,0 +1,3 @@
+[submodule "UpHabit/UpHabit/Uphabit-App"]
+	path = UpHabit/UpHabit/Uphabit-App
+	url = https://github.com/layanalsubie/Uphabit-App.git
